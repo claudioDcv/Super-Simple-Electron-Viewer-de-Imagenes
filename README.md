@@ -1,5 +1,5 @@
 # Basado en electron-quick-start
-## Proyecto simple para visualizar Imágenes y Sgv
+## Proyecto simple para visualizar Imágenes y Svg
 
 
 
