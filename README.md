@@ -1,3 +1,10 @@
+# Basado en electron-quick-start
+## Proyecto simple para visualizar Imágenes y Sgv
+
+
+
+---------------------
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
